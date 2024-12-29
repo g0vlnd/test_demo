@@ -1,1 +1,2 @@
-hi all
+Hi <br>
+This is the diplomat
